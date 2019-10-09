@@ -1,0 +1,9 @@
+[submodule "Repo-c"]
+	path = Repo-c
+	url = https://github.com/paiwale/Repo-c.git
+[submodule "53cae4df2f2a8025adaf69185224ea9e2b0f77fc"]
+	path = 53cae4df2f2a8025adaf69185224ea9e2b0f77fc
+	url = https://github.com/paiwale/Repo-c.git
+[submodule "HOTS@53cae4d"]
+	path = HOTS@53cae4d
+	url = https://github.com/paiwale/Repo-c.git
